@@ -1,0 +1,9 @@
+[submodule "V1"]
+	path = V1
+	url = https://github.com/wbap/V1.git
+[submodule "lis"]
+	path = lis
+	url = https://github.com/stssg526/lis
+[submodule "BriCA1"]
+	path = BriCA1
+	url = https://github.com/wbap/BriCA1
