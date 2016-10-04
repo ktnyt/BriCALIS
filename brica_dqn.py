@@ -13,6 +13,7 @@ import sys
 
 sys.path.append('./BriCA1/python')
 sys.path.append('./lis/gym_client')
+sys.path.append('./lis/gym_client/examples/agents')
 
 class CNNDQNComponent(brica1.Component):
     def __init__(self, cnn_dqn_agent):
